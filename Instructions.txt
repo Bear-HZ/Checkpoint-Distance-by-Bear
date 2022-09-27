@@ -1,0 +1,32 @@
+Checkpoint Distance by Bear
+
+Document Author: Bear (Swapnil#9308)
+
+------
+
+Installation Video Guide (for a Similar Mod): https://youtu.be/nlS4Ld8_jBc
+
+INSTALLATION INSTRUCTIONS:
+
+1. Have eiter SA:MP 0.3.7 R1 or 0.3.7 R3-1 installed in GTA SA v1.0. (Either SA:MP version requires a seperate version of SAMPFUNCS. Check Links.txt for more.)
+
+2. Ensure that you have the latest versions of CLEO, ASI Loader, SAMPFUNCS and Moonloader installed. (Check Links.txt)
+
+3. Copy the 'moonloader' folder from Checkpoint Distance by Bear to your GTA SA game directory. Replace existing files with new ones if necessary.
+
+Contact Swapnil#9308 on Discord for support.
+
+------
+
+COMMANDS:
+
+/cpdhelp
+
+------
+
+ABOUT THE MOD:
+
+As long as a checkpoint is active, a block of text (adjustable in position, size, etc) displays the player's distance from the checkpoint, excluding the red marker's radius..
+
+Official Thread:
+https://forums.hzgaming.net/showthread.php/460357-LUA-Checkpoint-Distance
